@@ -59,7 +59,7 @@
         "eslint-plugin-flowtype": "^3.13.0",
         "eslint-plugin-import": "^2.18.2",
         "eslint-plugin-jest": "^22.16.0",
-        "flow-bin": "^0.106.3",
+        "flow-bin": "^0.155.0",
         "highlight.js": "^9.15.10",
         "jest": "^24.9.0",
         "node-sass": "^4.12.0",
